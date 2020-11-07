@@ -1,7 +1,5 @@
 package org.johnpc.http.form;
 
-
-
 import org.johnpc.http.form.model.User;
 import org.johnpc.http.form.repo.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
